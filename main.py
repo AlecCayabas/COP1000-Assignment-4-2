@@ -21,5 +21,5 @@ else:
           if productivityScore >= 200:
                bonus = 200.00
 
-print ("Employee Name:" + name)
+print ("Employee Name: " + name)
 print ("Employee Bonus: $" + str(bonus))
